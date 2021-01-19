@@ -1,2 +1,4 @@
 C:\Users\Usuario\Downloads\Project3\x64\Debug\Project3.exe
 C:\Users\Usuario\Downloads\Project3\x64\Debug\Project3.pdb
+C:\Users\Usuario\Documents\ITBA\EDA\EDA-Robot-Cleaner\x64\Debug\Project3.exe
+C:\Users\Usuario\Documents\ITBA\EDA\EDA-Robot-Cleaner\x64\Debug\Project3.pdb
