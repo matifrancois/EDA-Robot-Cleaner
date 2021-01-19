@@ -40,13 +40,13 @@ You can install them easily from NuGet packages on visual studio
 
 ### Mode 1 with 1 robot:
 
-<img src="Demo/Mode1_s.gif" width="350" title="Mode 1 with 1 robot">
+<img src="Demo/Mode1.gif" width="500" title="Mode 1 with 1 robot">
 
 ### Mode 1 with more robots:
 
-<img src="Demo/Mode1_more_robots.gif" width="350" title="Mode 1 with more robots">
+<img src="Demo/Mode1_more_robots.gif" width="500" title="Mode 1 with more robots">
 
 ### Mode 2:
 
-<img src="Demo/Mode2.gif" width="350" title="Mode 2">
+<img src="Demo/Mode2.gif" width="500" title="Mode 2">
 
