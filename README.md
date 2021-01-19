@@ -29,18 +29,24 @@ the second operating mode calculate the number of thicks that it took in average
 ## How to Run
 the easy way to run this example is open the solution with Visual Studio IDE and tapping Local Windows Debugging button. Another way is compiling the source code by hand with the command console.
 
+Maybe you need to install the following packages to run or modify the app:
+
+- Allegro.5.2.6
+- AllegroDeps.1.11.0
+
+You can install them easily from NuGet packages on visual studio
+
 ## Preview
 
 ### Mode 1 with 1 robot:
 
-![App Working](Demo/Mode1.gif)
-
+<img src="Demo/Mode1_s.gif" width="350" title="Mode 1 with 1 robot">
 
 ### Mode 1 with more robots:
 
-![App Working](Demo/Mode1_more_robots.gif)
+<img src="Demo/Mode1_more_robots.gif" width="350" title="Mode 1 with more robots">
 
 ### Mode 2:
 
-![App Working](Demo/Mode2.gif)
+<img src="Demo/Mode2.gif" width="350" title="Mode 2">
 
